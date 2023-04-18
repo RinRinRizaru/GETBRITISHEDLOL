@@ -1,0 +1,26 @@
+var firstname = "Andromeda";
+var lastname = "Ballera";
+var message = "und ich liebe in Philippinen";
+var age = 15;
+var priceOfBread = 2.99;
+
+alert(
+     "Ich heise <strong>" + 
+     firstname +
+     " "+
+     lastname + "</strong"+
+     message +
+     " .Ich bin"+
+     age+ "."+
+     "Der brot ist teuer. Brot ist " +priceOfBread);
+
+document.write(
+    "Ich heise <strong>"+
+    firstname +
+    " "+
+    lastname + 
+    "</strong>"+
+
+
+)     
+
